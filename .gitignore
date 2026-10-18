@@ -1,0 +1,15 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.db
+.env
+*.log
+*.pid
+.npm-cache/
+.test-tmp*/
+*.tsbuildinfo
+backend/wheels/*.whl
+tmp/
+output/
